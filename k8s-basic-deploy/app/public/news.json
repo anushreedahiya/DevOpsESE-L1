@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "title": "Tech Giants Embrace AI in 2025",
+      "description": "Leading companies are integrating AI into every part of their workflow, from customer support to logistics.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "title": "Climate Innovation Boosts Renewable Energy",
+      "description": "New solar and wind technologies are setting record-breaking efficiency levels this year.",
+      "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "title": "SpaceX Launches Next-Gen Starship",
+      "description": "The rocket is set to revolutionize space travel and enable Mars missions in the near future.",
+      "image": "https://images.unsplash.com/photo-1581092334392-86d5d4b6b0b9?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "title": "Remote Work Culture Evolves",
+      "description": "Companies focus on hybrid models that balance flexibility with productivity.",
+      "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23d56?auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
